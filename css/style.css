@@ -6,7 +6,7 @@ body {
     color: #333;
   }
 .landing-page{
-    background-image: url(/images/zee.png);
+    background-image: url(./images/zee.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
