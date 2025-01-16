@@ -6,7 +6,7 @@ body {
     color: #333;
   }
 .landing-page{
-    background-image: url(../images/zee.png);
+    background-image: url(zee.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -149,7 +149,7 @@ h3{
     
 }
 .footer{
-    background-image: url(../images/footer-background.png);
+    background-image: url(footer-background.png);
 height: 100vh;
 width: auto;
 display: flex;
